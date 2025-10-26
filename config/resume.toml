@@ -1,0 +1,84 @@
+############## Education config #################
+#################################################
+[[education]]
+title = "SENA: Servicio Nacional de Aprendizaje"
+timeline = "2019 — 2022"
+description = "Tecnologia: Analisis y Desarrollo de Sistemas de Información"
+
+[[education]]
+title = "Tomas Cadavid Restrepo"
+timeline = "2012 — 2015"
+description = "Instituto Basica Secundaria"
+
+[[education]]
+title = "Tomas Cadavid Restrepo"
+timeline = "2012-2015"
+description = "Formacion en Artes"
+
+
+############## Experience config ################
+#################################################
+[[experience]]
+title = "Web Developing"
+timeline = "2022 — Present"
+description = "Projects and knowledge"
+
+[[experience]]
+title = "Data Base"
+timeline = "2021 — Present"
+description = "Manage and design databases"
+
+[[experience]]
+title = "Tester"
+timeline = "2014 — Present"
+description = "Testing alpha/beta apps(Mobile/Desktop), testing android system"
+
+[[experience]]
+title = "Creative director"
+timeline = "2020 — Present"
+description = "Free Developing and group management"
+
+
+############## Skills config ####################
+#################################################
+[skills] 
+title = "My Skills"
+enabled = true
+show_bar = true
+show_value = true
+
+[[skill]]
+title = "Web design"
+value = "65%"
+
+[[skill]]
+title = "Design"
+value = "45%"
+
+[[skill]]
+title = "Database"
+value = "30%"
+
+[[skill]]
+title = "Django"
+value = "35%"
+
+[[skill]]
+title = "Java"
+value = "30%"
+
+############## Language config ##################
+#################################################
+[languages]
+title = "Languages"
+enabled = true
+show_bar = true
+show_value = true
+
+[[language]]
+title = "Ingles"
+value = "50%"
+
+[[language]]
+title = "Portuguese"
+value = "30%"
